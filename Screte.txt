@@ -1,0 +1,11 @@
+
+META_MASK:
+
+account ::
+	 "0x41F37f9e985E38A13aa22a3aB5dAC4093d15062C"
+
+password : "Ninjasenthil404(meta)"
+
+recovery phrase ::
+
+	 "awesome project pattern donor sudden pole river grow episode boring anxiety coffee"
